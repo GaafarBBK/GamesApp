@@ -44,29 +44,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCENqHbDu_0ONF2Swzha49cYL9QMR1ZsjM',
-    appId: '1:642086517417:web:67afc728a777ccde4947b8',
-    messagingSenderId: '642086517417',
-    projectId: 'lati-games-69',
-    authDomain: 'lati-games-69.firebaseapp.com',
-    storageBucket: 'lati-games-69.appspot.com',
-    measurementId: 'G-PXXW3BXZ1C',
+    apiKey: 'AIzaSyBg7u0CMho7Cdwn4Kmgv811SdsG72Ql7qA',
+    appId: '1:824657122472:web:e255d009a9a5d1c0261e9d',
+    messagingSenderId: '824657122472',
+    projectId: 'gameapp-69',
+    authDomain: 'gameapp-69.firebaseapp.com',
+    storageBucket: 'gameapp-69.appspot.com',
+    measurementId: 'G-YDBWFXJ6FW',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA_PS10_zx1LSDafiP937piZQ0ZSbtQKbw',
-    appId: '1:642086517417:android:7778f1e36321b3b64947b8',
-    messagingSenderId: '642086517417',
-    projectId: 'lati-games-69',
-    storageBucket: 'lati-games-69.appspot.com',
+    apiKey: 'AIzaSyDJmLY1excdRjJa6QzLuyK3Pk-uO5z5m9k',
+    appId: '1:824657122472:android:6c1b2203c8ebd9a3261e9d',
+    messagingSenderId: '824657122472',
+    projectId: 'gameapp-69',
+    storageBucket: 'gameapp-69.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAfI1gAdKNnNQtAbTjRsqLzXSnAdVo_-S0',
-    appId: '1:642086517417:ios:4e16b1a7f2e834d04947b8',
-    messagingSenderId: '642086517417',
-    projectId: 'lati-games-69',
-    storageBucket: 'lati-games-69.appspot.com',
+    apiKey: 'AIzaSyCo7Dvr6cGiLUncDpGSSUEcbNg1ujhOrfI',
+    appId: '1:824657122472:ios:59b7e92125853cd1261e9d',
+    messagingSenderId: '824657122472',
+    projectId: 'gameapp-69',
+    storageBucket: 'gameapp-69.appspot.com',
     iosBundleId: 'com.example.gameApp',
   );
 
